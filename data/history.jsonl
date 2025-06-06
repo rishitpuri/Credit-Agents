@@ -1,0 +1,56 @@
+{"profile": {"income": 85000, "credit_score": 690, "existing_loans": 1, "loan_amount": 25000, "employment_status": "full-time", "dti": 0.25}, "decision": "Approved"}
+{"profile": {"income": 55000, "credit_score": 630, "existing_loans": 3, "loan_amount": 18000, "employment_status": "contract", "dti": 0.48}, "decision": "Denied"}
+{"profile": {"income": 120000, "credit_score": 780, "existing_loans": 0, "loan_amount": 40000, "employment_status": "full-time", "dti": 0.18}, "decision": "Approved"}
+{"profile": {"income": 75000, "credit_score": 720, "existing_loans": 2, "loan_amount": 30000, "employment_status": "full-time", "dti": 0.32}, "decision": "Approved"}
+{"profile": {"income": 42000, "credit_score": 580, "existing_loans": 4, "loan_amount": 15000, "employment_status": "part-time", "dti": 0.52}, "decision": "Denied"}
+{"profile": {"income": 95000, "credit_score": 745, "existing_loans": 1, "loan_amount": 35000, "employment_status": "full-time", "dti": 0.28}, "decision": "Approved"}
+{"profile": {"income": 38000, "credit_score": 610, "existing_loans": 2, "loan_amount": 12000, "employment_status": "contract", "dti": 0.45}, "decision": "Manual Review"}
+{"profile": {"income": 110000, "credit_score": 680, "existing_loans": 3, "loan_amount": 50000, "employment_status": "full-time", "dti": 0.42}, "decision": "Manual Review"}
+{"profile": {"income": 65000, "credit_score": 650, "existing_loans": 1, "loan_amount": 20000, "employment_status": "full-time", "dti": 0.35}, "decision": "Approved"}
+{"profile": {"income": 28000, "credit_score": 520, "existing_loans": 5, "loan_amount": 8000, "employment_status": "unemployed", "dti": 0.68}, "decision": "Denied"}
+{"profile": {"income": 150000, "credit_score": 820, "existing_loans": 0, "loan_amount": 60000, "employment_status": "full-time", "dti": 0.15}, "decision": "Approved"}
+{"profile": {"income": 48000, "credit_score": 595, "existing_loans": 3, "loan_amount": 14000, "employment_status": "part-time", "dti": 0.49}, "decision": "Denied"}
+{"profile": {"income": 88000, "credit_score": 715, "existing_loans": 2, "loan_amount": 28000, "employment_status": "self-employed", "dti": 0.31}, "decision": "Manual Review"}
+{"profile": {"income": 72000, "credit_score": 660, "existing_loans": 1, "loan_amount": 22000, "employment_status": "full-time", "dti": 0.29}, "decision": "Approved"}
+{"profile": {"income": 33000, "credit_score": 540, "existing_loans": 4, "loan_amount": 10000, "employment_status": "contract", "dti": 0.58}, "decision": "Denied"}
+{"profile": {"income": 105000, "credit_score": 760, "existing_loans": 1, "loan_amount": 45000, "employment_status": "full-time", "dti": 0.26}, "decision": "Approved"}
+{"profile": {"income": 52000, "credit_score": 625, "existing_loans": 2, "loan_amount": 16000, "employment_status": "full-time", "dti": 0.38}, "decision": "Manual Review"}
+{"profile": {"income": 180000, "credit_score": 800, "existing_loans": 0, "loan_amount": 75000, "employment_status": "full-time", "dti": 0.12}, "decision": "Approved"}
+{"profile": {"income": 39000, "credit_score": 565, "existing_loans": 3, "loan_amount": 11000, "employment_status": "part-time", "dti": 0.51}, "decision": "Denied"}
+{"profile": {"income": 92000, "credit_score": 695, "existing_loans": 2, "loan_amount": 32000, "employment_status": "full-time", "dti": 0.33}, "decision": "Approved"}
+{"profile": {"income": 44000, "credit_score": 600, "existing_loans": 2, "loan_amount": 13000, "employment_status": "contract", "dti": 0.44}, "decision": "Manual Review"}
+{"profile": {"income": 78000, "credit_score": 730, "existing_loans": 1, "loan_amount": 26000, "employment_status": "self-employed", "dti": 0.27}, "decision": "Approved"}
+{"profile": {"income": 31000, "credit_score": 510, "existing_loans": 6, "loan_amount": 7500, "employment_status": "unemployed", "dti": 0.72}, "decision": "Denied"}
+{"profile": {"income": 125000, "credit_score": 785, "existing_loans": 0, "loan_amount": 48000, "employment_status": "full-time", "dti": 0.19}, "decision": "Approved"}
+{"profile": {"income": 58000, "credit_score": 640, "existing_loans": 3, "loan_amount": 19000, "employment_status": "full-time", "dti": 0.41}, "decision": "Manual Review"}
+{"profile": {"income": 67000, "credit_score": 675, "existing_loans": 1, "loan_amount": 21000, "employment_status": "full-time", "dti": 0.30}, "decision": "Approved"}
+{"profile": {"income": 36000, "credit_score": 555, "existing_loans": 4, "loan_amount": 9000, "employment_status": "part-time", "dti": 0.56}, "decision": "Denied"}
+{"profile": {"income": 98000, "credit_score": 710, "existing_loans": 2, "loan_amount": 38000, "employment_status": "full-time", "dti": 0.35}, "decision": "Approved"}
+{"profile": {"income": 41000, "credit_score": 585, "existing_loans": 3, "loan_amount": 12500, "employment_status": "contract", "dti": 0.47}, "decision": "Denied"}
+{"profile": {"income": 115000, "credit_score": 750, "existing_loans": 1, "loan_amount": 42000, "employment_status": "full-time", "dti": 0.23}, "decision": "Approved"}
+{"profile": {"income": 29000, "credit_score": 530, "existing_loans": 5, "loan_amount": 8500, "employment_status": "unemployed", "dti": 0.65}, "decision": "Denied"}
+{"profile": {"income": 82000, "credit_score": 690, "existing_loans": 2, "loan_amount": 29000, "employment_status": "self-employed", "dti": 0.34}, "decision": "Manual Review"}
+{"profile": {"income": 135000, "credit_score": 795, "existing_loans": 0, "loan_amount": 55000, "employment_status": "full-time", "dti": 0.17}, "decision": "Approved"}
+{"profile": {"income": 47000, "credit_score": 615, "existing_loans": 2, "loan_amount": 15500, "employment_status": "full-time", "dti": 0.40}, "decision": "Manual Review"}
+{"profile": {"income": 73000, "credit_score": 665, "existing_loans": 1, "loan_amount": 24000, "employment_status": "full-time", "dti": 0.31}, "decision": "Approved"}
+{"profile": {"income": 34000, "credit_score": 545, "existing_loans": 4, "loan_amount": 10500, "employment_status": "part-time", "dti": 0.54}, "decision": "Denied"}
+{"profile": {"income": 101000, "credit_score": 725, "existing_loans": 1, "loan_amount": 39000, "employment_status": "full-time", "dti": 0.28}, "decision": "Approved"}
+{"profile": {"income": 45000, "credit_score": 590, "existing_loans": 3, "loan_amount": 13500, "employment_status": "contract", "dti": 0.46}, "decision": "Denied"}
+{"profile": {"income": 160000, "credit_score": 810, "existing_loans": 0, "loan_amount": 68000, "employment_status": "full-time", "dti": 0.14}, "decision": "Approved"}
+{"profile": {"income": 56000, "credit_score": 635, "existing_loans": 2, "loan_amount": 17500, "employment_status": "full-time", "dti": 0.37}, "decision": "Manual Review"}
+{"profile": {"income": 89000, "credit_score": 705, "existing_loans": 2, "loan_amount": 31000, "employment_status": "full-time", "dti": 0.32}, "decision": "Approved"}
+{"profile": {"income": 37000, "credit_score": 570, "existing_loans": 3, "loan_amount": 11500, "employment_status": "part-time", "dti": 0.50}, "decision": "Denied"}
+{"profile": {"income": 77000, "credit_score": 680, "existing_loans": 1, "loan_amount": 25500, "employment_status": "self-employed", "dti": 0.29}, "decision": "Approved"}
+{"profile": {"income": 32000, "credit_score": 525, "existing_loans": 5, "loan_amount": 9500, "employment_status": "unemployed", "dti": 0.63}, "decision": "Denied"}
+{"profile": {"income": 118000, "credit_score": 770, "existing_loans": 1, "loan_amount": 46000, "employment_status": "full-time", "dti": 0.24}, "decision": "Approved"}
+{"profile": {"income": 49000, "credit_score": 620, "existing_loans": 2, "loan_amount": 16500, "employment_status": "full-time", "dti": 0.39}, "decision": "Manual Review"}
+{"profile": {"income": 84000, "credit_score": 700, "existing_loans": 2, "loan_amount": 30000, "employment_status": "full-time", "dti": 0.33}, "decision": "Approved"}
+{"profile": {"income": 40000, "credit_score": 580, "existing_loans": 4, "loan_amount": 12000, "employment_status": "contract", "dti": 0.48}, "decision": "Denied"}
+{"profile": {"income": 140000, "credit_score": 790, "existing_loans": 0, "loan_amount": 58000, "employment_status": "full-time", "dti": 0.16}, "decision": "Approved"}
+{"profile": {"income": 51000, "credit_score": 645, "existing_loans": 2, "loan_amount": 18500, "employment_status": "full-time", "dti": 0.36}, "decision": "Manual Review"}
+{"profile": {"income": 86000, "credit_score": 715, "existing_loans": 1, "loan_amount": 33000, "employment_status": "full-time", "dti": 0.30}, "decision": "Approved"}
+{"profile": {"income": 35000, "credit_score": 550, "existing_loans": 3, "loan_amount": 10000, "employment_status": "part-time", "dti": 0.53}, "decision": "Denied"}
+{"profile": {"income": 112000, "credit_score": 740, "existing_loans": 1, "loan_amount": 44000, "employment_status": "full-time", "dti": 0.25}, "decision": "Approved"}
+{"profile": {"income": 43000, "credit_score": 605, "existing_loans": 3, "loan_amount": 14500, "employment_status": "contract", "dti": 0.43}, "decision": "Manual Review"}
+{"profile": {"income": 175000, "credit_score": 825, "existing_loans": 0, "loan_amount": 72000, "employment_status": "full-time", "dti": 0.13}, "decision": "Approved"}
+{"profile": {"income": 46000, "credit_score": 595, "existing_loans": 2, "loan_amount": 14000, "employment_status": "full-time", "dti": 0.42}, "decision": "Manual Review"}
