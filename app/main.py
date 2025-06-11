@@ -4,15 +4,21 @@ load_dotenv()
 from workflow import build_workflow
 
 def main():
-    customer_description = """
-I am currently employed part-time as a retail associate, earning a monthly income of $2,500. My monthly expenses, including rent, utilities, and other essentials, total about $2,200. I have a credit score of 620 and carry debts amounting to $20,000, primarily from credit cards and a personal loan. My savings are minimal, less than $1,000. I live with a roommate to share living costs and am seeking a loan to consolidate my debts and manage monthly payments more effectively.
-
+    customer_description = customer_description = """
+I am John Carter, a mid-level executive in the tech industry with a stable annual salary and periodic bonuses. I own a Tesla Model 3 and a BMW X5, both fully paid off. My investment portfolio includes shares in Apple, Amazon, and Nvidia. I carry a mortgage on my primary residence and have a manageable student loan balance. My credit score remains strong due to consistent payments and moderate credit utilization. I actively contribute to a retirement fund and maintain an emergency savings account. While I have some debt, it is well-structured and does not impact my overall financial health.
 """
+
+
     graph = build_workflow()
     result = graph.invoke({"description": customer_description})
 
     print("\n--- Evaluation Result ---")
-    print(f"Risk Score: {result['risk_score']}")
+    print(f"Extracted Data: {result.get('extracted_data')}")
+    print(f"Financial Ratios: {result.get('financial_ratios')}")
+    print(f"Validation Summary: {result.get('validation_summary')}")  # ✅ New
+    print(f"Risk Score: {result.get('risk_score')}")
+    print(f"Explanation: {result.get('explanation')}")
 
 if __name__ == "__main__":
     main()
+
